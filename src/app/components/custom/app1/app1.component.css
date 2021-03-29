@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    align-items: stretch;
+}
+
+.chart-container{
+    width: 50vw;
+}
+
+.menu-container{
+    display: inline-block;
+}
