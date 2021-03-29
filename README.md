@@ -1,4 +1,4 @@
-# AMEX - exercice - By Rodrigo Villalobos 01/18/2021
+# AMEX - exercice - By Rodrigo Villalobos 03/29/2021
 
 This project is a simple project to showcase some Angular skills.
 
